@@ -6,7 +6,7 @@ export const User = ({image, nombre, Estado}) => {
   return (
  
     <>
-<div className="card">
+<div className="card resplandor ">
     <div className="image-container">
         <img src= {image} alt="Jessica" />
     </div>
